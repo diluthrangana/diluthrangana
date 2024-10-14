@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavishka Ravishan</h1>
+<h1 align="center">Hi 👋, I'm Diluth Rangana</h1>
 <h3 align="center">A passionate Computer Engineer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KavishkaRavishan&label=Profile%20views&color=0e75b6&style=flat" alt="KavishkaRavishan" /> </p>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
